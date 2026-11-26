@@ -15,4 +15,3 @@ Topics: pre-trained neural networks, feature extraction, multilabel classificati
 [Residual Networks (ResNet) - Deep Learning](https://www.geeksforgeeks.org/deep-learning/residual-networks-resnet-deep-learning/)
 
 [[Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification on Custom Dataset with PyTorch](https://medium.com/@imabhi1216/fine-tuning-a-pre-trained-resnet-18-model-for-image-classification-on-custom-dataset-with-pytorch-02df12e83c2c)
-](https://www.geeksforgeeks.org/deep-learning/resnet18-from-scratch-using-pytorch/)
