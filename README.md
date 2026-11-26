@@ -11,5 +11,7 @@ Topics: pre-trained neural networks, feature extraction, multilabel classificati
 
 ## Reference List
 [Multiclass and multilabel algorithms](https://scikit-learn.org/0.15/modules/multiclass.html)
+
 [Residual Networks (ResNet) - Deep Learning](https://www.geeksforgeeks.org/deep-learning/residual-networks-resnet-deep-learning/)
+
 [ResNet18 from Scratch Using PyTorch](https://www.geeksforgeeks.org/deep-learning/resnet18-from-scratch-using-pytorch/)
